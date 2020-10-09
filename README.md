@@ -1,6 +1,6 @@
 # Purpose of this repository:
 
-Project template
+Pyp.ai is a basic python framework for functions as a service.
 
 ## Who should someone contact if they have questions?						
 
